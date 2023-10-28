@@ -30,8 +30,8 @@ Esto es una guía para poder vincular tu Elgato Key Light con Google Home y así
 - Ahora ve, en el menú lateral, a **`Actions`**
   - En **Fulfillment URL** escribe `https://europe-west6-worldpeace-186e0.cloudfunctions.net/function-2` ([source code](https://github.com/angelcustodio/elgato-keylight-google/blob/main/files/cloudfunction.js)]
   - En **Log Level** lo puedes dejar en `Error`
-  - En **Enter your testing URL for Chrome** escribe `https://sirdarckcat.github.io/fakeauth/index.html` ([source code](https://github.com/angelcustodio/elgato-keylight-google/blob/main/files/index.html)]
-  - En **Enter your testing URL for Node** escribe `https://sirdarckcat.github.io/fakeauth/bundle.js` ([source code](https://github.com/angelcustodio/elgato-keylight-google/blob/main/files/bundle.js)]
+  - En **Enter your testing URL for Chrome** escribe `https://raw.githubusercontent.com/angelcustodio/elgato-keylight-google/main/files/index.html` ([source code](https://github.com/angelcustodio/elgato-keylight-google/blob/main/files/index.html)]
+  - En **Enter your testing URL for Node** escribe `https://raw.githubusercontent.com/angelcustodio/elgato-keylight-google/main/files/bundle.js` ([source code](https://github.com/angelcustodio/elgato-keylight-google/blob/main/files/bundle.js)]
   - En **Upload Javascript files** no tienes que tocar nada
   - En **Add capabilities** tienes que marcar la opción ☑️ **Support local query**
 
