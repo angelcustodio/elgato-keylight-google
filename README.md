@@ -82,6 +82,6 @@ Con los 6 pasos anteriores, ya estaría todo configurado para que puedas añadir
   - Una vez te salga, selecciónalo y se agregará a tus dispositivos de Google Home
     - Repito; esto puede fallar, simplemente dale tiempo entre prueba y prueba
 - Una vez tengas el dispositivo disponible, es posible que siga sin funcionar; tienes que añadirlo a una habitación
-- Y tras esto, debería de funcionar a la perfección, pudiendo encender y apagar, subir y bajar intensidad y también modificar la temperatura
+- Y tras esto, debería de funcionar a la perfección, pudiendo encender y apagar, subir y bajar intensidad y también modificar la temperatura desde la app de Google Home. Para poder controlarlo por voz, tendrás que crearte una rutina con el comando que quieras para encenderla o apagarla.
 
 :)
