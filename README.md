@@ -1,4 +1,4 @@
-# Elgato Key Light con Google Assistant
+# Elgato Key Light con Google Home/Assistant
 Esto es una guía para poder vincular tu Elgato Key Light con Google Home y así poder controlarlo desde la app o mediante rutinas de Google Assistant. Esta guía no es más que una adaptación de la original de [sirdarckcat](https://github.com/sirdarckcat/sirdarckcat.github.io/tree/master/fakeauth) en inglés.
 
 **Nota**: Para poder realizar todos los pasos con éxito, primero debes de ingresar en el [Programa de Avance de Google](https://support.google.com/chromecast/answer/6343937#zippy=%2Chow-do-i-join-the-preview-program)
